@@ -6,7 +6,7 @@ It includes design .v files, testbenches, makefiles, and assignment presentation
 ## The circuit project assigned in this course is a floating-point calculator.
 **It provides hands-on experience with the front-end cell-based design flow, culminating in the completion of an IP.**
 
-## Folder structure of the project
+## Project Directory Structure
 * class
   * rtl &nbsp;&nbsp; **_(.v file)_**
   * sim &nbsp;**_(testbench & Makefile)_**
